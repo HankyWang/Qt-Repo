@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book>
+    <title>GRE词汇</title>
+    <author>HankWang</author>
+    <press>BUPT</press>
+    <description>GRE词汇</description>
+    <id>100000</id>
+    <amount>2</amount>
+    <total>5</total>
+    <category>英文</category>
+    <refer_count>2</refer_count>
+    <bor_count>3</bor_count>
+  </book>
+  <book>
+    <title>GRE句子</title>
+    <author>HankWang</author>
+    <press>BUPT</press>
+    <description>GRE句子</description>
+    <id>100002</id>
+    <amount>5</amount>
+    <total>5</total>
+    <category>英文</category>
+    <refer_count>2</refer_count>
+    <bor_count>3</bor_count>
+  </book>
+  <book>
+    <title>GRE作文</title>
+    <author>HankWang</author>
+    <press>BUPT</press>
+    <description>GRE作文</description>
+    <id>100005</id>
+    <amount>2</amount>
+    <total>5</total>
+    <category>英文</category>
+    <refer_count>2</refer_count>
+    <bor_count>3</bor_count>
+  </book>
+</library>
